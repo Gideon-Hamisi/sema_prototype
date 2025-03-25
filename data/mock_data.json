@@ -1,0 +1,14 @@
+{
+    "weather": {
+      "Nairobi": "25°C, sunny"
+    },
+    "news": [
+      "Matatu Strike Looms in CBD",
+      "Tea Prices Up in Kericho"
+    ],
+    "mpesa_balance": 1200,
+    "music_playlist": [
+      "Wamlambez by Sailors",
+      "Bazu by Collo"
+    ]
+  }
