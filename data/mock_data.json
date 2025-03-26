@@ -1,14 +1,27 @@
 {
     "weather": {
-      "Nairobi": "25°C, sunny"
+        "Nairobi": "25°C, sunny",
+        "Mombasa": "30°C, humid with a chance of rain",
+        "Kisumu": "27°C, partly cloudy",
+        "Eldoret": "22°C, cool and breezy"
     },
     "news": [
-      "Matatu Strike Looms in CBD",
-      "Tea Prices Up in Kericho"
+        "Matatu Strike Looms in CBD",
+        "Tea Prices Up in Kericho",
+        "New Tech Hub Opens in Westlands",
+        "Coastal Tourism Booms Ahead of Holidays",
+        "Farmers Protest Over Fertilizer Costs"
     ],
     "mpesa_balance": 1200,
     "music_playlist": [
-      "Wamlambez by Sailors",
-      "Bazu by Collo"
-    ]
-  }
+        "Wamlambez by Sailors",
+        "Bazu by Collo",
+        "Jerusalema by Master KG",
+        "Sura Yako by Sauti Sol",
+        "Mali Safi Chito by Marlaw"
+    ],
+    "reminders": {
+        "today": ["Pay rent by 5 PM", "Call Mum at 7 PM"],
+        "tomorrow": ["Meeting with client at 10 AM"]
+    }
+}
